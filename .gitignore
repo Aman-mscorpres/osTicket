@@ -1,0 +1,8 @@
+node_modules
+test
+TEMP
+.env
+UPLOADS
+CONFIGS
+keys/private.pem
+keys/public.pem
